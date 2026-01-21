@@ -24,11 +24,11 @@ class Audio {
         });
 
         this.names_radio = [];
-        this.names_radio[0] = "Radaio Saudi Arabia";
-        this.names_radio[1] = "Radaio Lebanon";
-        this.names_radio[2] = "Radaio Egypt";
-        this.names_radio[3] = "Radaio Iraq";
-        this.names_radio[4] = "Radaio Jordan";
+        this.names_radio[0] = "Radio Saudi Arabia";
+        this.names_radio[1] = "Radio Lebanon";
+        this.names_radio[2] = "Radio Egypt";
+        this.names_radio[3] = "Radio Iraq";
+        this.names_radio[4] = "Radio Jordan";
         
         this.source_audio = [];
         this.source_audio[0] = "https://uk6.internet-radio.com/proxy/aloula?mp=/stream;";
